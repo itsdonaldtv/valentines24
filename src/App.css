@@ -2,8 +2,72 @@
   text-align: center;
 }
 
+.App-input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  background-color: transparent;
+  color: #fff;
+  outline: none;
+  padding: 5px;
+  width: 200px;
+  text-align: center;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.submit-button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 33%;
+}
+
+.button-container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.button1 {
+  /* display: flex; */
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgba(60, 179, 113, 0.2); /* Background color with 50% opacity */
+  color: #ffffff; /* Text color (white in this case) */
+  border: none; /* Remove default button border */
+  outline: none; /* Remove button outline */
+  box-shadow: none; /* Remove button shadow */
+}
+
+.button2 {
+  /* display: flex; */
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none; /* Remove default button border */
+  outline: none; /* Remove button outline */
+  box-shadow: none; /* Remove button shadow */
+  background-color: rgba(255, 0, 0, 0.2); /* Background color with 50% opacity */
+  color: #ffffff; /* Text color (white in this case) */
+}
 .App-logo {
   height: 40vmin;
+  pointer-events: none;
+}
+
+.heart-emoji {
+  font-size: 2rem;
+  margin: 5px;
+  color: red;
+}
+
+.App-logo2 {
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -28,11 +92,11 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
