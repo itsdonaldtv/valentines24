@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/valentines24/static/css/main.f855e6bc.css",
-    "main.js": "/valentines24/static/js/main.61e6698f.js",
+    "main.css": "/valentines24/static/css/main.c0b0bd39.css",
+    "main.js": "/valentines24/static/js/main.c3e0f6bd.js",
     "static/js/592.7f72a991.chunk.js": "/valentines24/static/js/592.7f72a991.chunk.js",
-    "static/media/logo.svg": "/valentines24/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/LaufeyVal.mp3": "/valentines24/static/media/LaufeyVal.2874c54a7b180772b498.mp3",
+    "static/media/logo.png": "/valentines24/static/media/logo.c0ec9c8f7eaaf4f70f2b.png",
+    "static/media/Snoopy2.webp": "/valentines24/static/media/Snoopy2.9f31dcc8ba84054c9c79.webp",
+    "static/media/BelleKiss.png": "/valentines24/static/media/BelleKiss.4b9d0d3bb472a5ad196f.png",
     "index.html": "/valentines24/index.html",
-    "main.f855e6bc.css.map": "/valentines24/static/css/main.f855e6bc.css.map",
-    "main.61e6698f.js.map": "/valentines24/static/js/main.61e6698f.js.map",
+    "main.c0b0bd39.css.map": "/valentines24/static/css/main.c0b0bd39.css.map",
+    "main.c3e0f6bd.js.map": "/valentines24/static/js/main.c3e0f6bd.js.map",
     "592.7f72a991.chunk.js.map": "/valentines24/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.61e6698f.js"
+    "static/css/main.c0b0bd39.css",
+    "static/js/main.c3e0f6bd.js"
   ]
 }
